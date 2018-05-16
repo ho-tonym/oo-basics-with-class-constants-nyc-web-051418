@@ -22,7 +22,7 @@ class Shoe
   end
 
   def clear
-    BRANDS.uniq!
+    BRANDS.uniq
   end
 
 end
